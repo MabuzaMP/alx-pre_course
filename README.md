@@ -1,2 +1,1 @@
-echo "ALX is cool"
-
+# printf
